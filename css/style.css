@@ -1,0 +1,36 @@
+.punkt {
+    text-align: center;
+    height: 50px;
+    width: 200px;
+    background-color: gray;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}
+
+.punkt:hover {
+    width: 250px;
+    background-color: aquamarine;
+}
+
+.form {
+    background-color: orange;
+    text-align: center;
+    width: 400px;
+    padding: 30px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: blueviolet;
+    border-width: 2px;
+}
+
+.login {
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    background-color: blueviolet;
+}
+
+.input-form:focus {
+    background-color: #a2f0e3;
+}
